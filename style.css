@@ -1,0 +1,34 @@
+/*CSS Examen parcia 2 */
+
+
+
+/*box model del titulo con selector de ID*/
+#titulo {
+    border: 5px;
+    padding:10px;
+    margin-bottom:8px;
+    margin-top:10px;
+    margin-left:12px;
+    margin-right:12px;
+    color:blue;
+  }
+ 
+ /*selector con el tag*/
+ img {
+    border:5px;
+    padding:15px;
+    margin:10px;
+  }
+ 
+ #imgId:hover {
+    width:10%;
+    height:10%;
+  }
+ 
+ /*box model del parrafo con selector Class*/
+ .parrafoX {
+    border:5px;
+    padding:15px;
+    margin:10px;
+  }
+ 
